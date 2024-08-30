@@ -26,6 +26,5 @@ class Solution:
             # Otherwise, add the number and its index to the dictionary
             num_dict[num] = i
 
-# Example usage
 solution = Solution()
-print(solution.twoSum([2, 7, 11, 15], 9))  # Output: [0, 1]
+print(solution.twoSum([2, 7, 11, 15], 9))  
